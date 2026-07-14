@@ -100,8 +100,6 @@ Trabajamos con empresas líderes en distintas industrias:
 | Repo | Descripción |
 |------|-------------|
 | [politicas_y_condiciones](https://github.com/Taligent-SA/politicas_y_condiciones) | Políticas y condiciones de uso |
-| [taligent_hackathon_team_3](https://github.com/Taligent-SA/taligent_hackathon_team_3) | **TaliGol** — Prode del Mundial 2026 (FastAPI + Supabase) |
-| [taligent_hackathon_team_4](https://github.com/Taligent-SA/taligent_hackathon_team_4) | **Sports Prediction App** (Next.js + v0) |
 
 ---
 
