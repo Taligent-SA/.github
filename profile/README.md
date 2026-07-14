@@ -91,7 +91,7 @@ Trabajamos con empresas líderes en distintas industrias:
 | 🌾 **Agro & Agroindustria** | FyO · Lartirigoyen · BIO4 · Saman |
 | 🛒 **Consumo masivo** | Danone · Frigorífico Entre Todos |
 | 🚆 **Transporte** | Trenes Argentinos |
-| 🔬 **Otras** | SOFSA · CIATI |
+| 🔬 **Otras** | SOFSE · CIATI |
 
 ---
 
